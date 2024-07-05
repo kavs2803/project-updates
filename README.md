@@ -16,14 +16,14 @@ Stay organized and on track with your goals using this repository!
 
 ### Week 1
 
-- [ ] Learn fundamentals of Git and VCS
-- [ ] Getting Python fundamentals right.
+- [x] Learn fundamentals of Git and VCS
+- [x] Getting Python fundamentals right.
 - [ ] Get comfortable with basics of [Docker](https://docs.docker.com/guides/docker-overview/)
-- [ ] Machine Learning Fundamentals
+- [x] Machine Learning Fundamentals
 
 Additional
 
-- [ ] Features of ModelForge
+- [] Features of ModelForge
       Notes: Mentors are very cool. Owe then a treat.
 
 ## Kusuma
